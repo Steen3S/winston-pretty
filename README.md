@@ -16,4 +16,4 @@ npm run your-script | winston-pretty
 
 ## Example Output
 
-![Example Output](preview.png)
+![Example Output](https://raw.githubusercontent.com/Steen3S/winston-pretty/main/preview.png)
